@@ -49,4 +49,14 @@ background-image:linear-gradient(red,tomato) ;
     margin-left: 5%;
     padding: 20px;
     border-radius: 10px;
+   
+}
+#full-stack-developer{
+    border-left: 7px solid tomato;
+}
+#baby-web-developer{
+    border-left: 7px solid blue;
+}
+footer{
+    text-align: center;
 }
