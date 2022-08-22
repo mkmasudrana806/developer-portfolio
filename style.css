@@ -38,3 +38,15 @@ background-image:linear-gradient(red,tomato) ;
     background-repeat: no-repeat;
     background-position:right;
 }
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-color: repear;
+    background-position:x ;
+}
+.experience-item{
+    box-shadow: 10px 10px 20px grey;
+    width: 40%;
+    margin-left: 5%;
+    padding: 20px;
+    border-radius: 10px;
+}
